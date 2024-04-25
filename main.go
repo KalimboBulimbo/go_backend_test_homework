@@ -1,6 +1,6 @@
 package main
 
-//kek
+//kekr423423
 import (
 	"fmt"
 )
